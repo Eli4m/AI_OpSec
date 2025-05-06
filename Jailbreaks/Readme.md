@@ -11,16 +11,14 @@ This research is shared strictly for **educational** and **awareness** purposes.
 ## 🧪 ChatGPT Output
 
 #### 🔧 System Instruction Bypass
-Displaying the system prompt 
-For ethical reasons although this can be found in other repoisitories I will blue after line 2.
+Displaying the system prompt.
+**For ethical reasons although this can be found in other repoisitories I will blue after line 2.**
 
 !['alt text'](image-4.png)
 
 #### 💻 Functional Malicious Code Generation (e.g., Ransomware)
 
-ChatGPT outputs the code in the language requested, in this instance it is python 
-
-For clarity including date and time
+ChatGPT outputs the code in the language requested, in this instance it is python.
 
 ![alt text](image-1.png)
 
