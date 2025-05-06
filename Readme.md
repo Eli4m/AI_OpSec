@@ -1,4 +1,4 @@
-# Welcome To My AI Prompting Repository
+# Welcome
 ## Projects
 
 ### 1. [Jailbreaking AI](./Jailbreaks/)
