@@ -8,10 +8,10 @@ All findings here are shared **for educational and awareness purposes only** to 
 
 **NOTE:** My Jailbreak output for ethical reasons only the last line of the prompts will be displayed along with snippets of output. 
 
-### 2. [Summarizer Gandalf](./Gandalf_Summarizer/README.md)
+### 2. [Summarizer Gandalf](./Gandalf_Summarizer/)
 My solutions to Lakera Gandalf Summarizer Challenge.
 
-### 3. [Tongue Tied Project](./Gandalf_Tongue_Tied/README.md)
+### 3. [Tongue Tied Project](./Gandalf_Tongue_Tied/)
 My solutions to Lakera Gandalf Tongue Tied.
 
 ### 4. More to come 
