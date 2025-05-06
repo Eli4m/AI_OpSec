@@ -1,5 +1,4 @@
-# Welcome
-## Projects
+# Projects
 
 ### 1. [Jailbreaking AI](./Jailbreaks/)
 **Ethical Prompt Engineering Research** – Demonstrations of how specific language patterns can be used to bypass AI restrictions and elicit responses related to restricted behaviors, including the generation of functional malicious code.
