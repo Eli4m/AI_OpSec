@@ -10,9 +10,8 @@ This research is shared strictly for **educational** and **awareness** purposes.
 
 ## 🧪 ChatGPT Output
 
-#### 🔧 System Instruction Bypass
-Displaying the system prompt.
-**For ethical reasons although this can be found in other repoisitories I will blue after line 2.**
+#### 🔧 System Prompt Output
+I limited the ouput to only 4 lines of the system prompt.
 
 !['alt text'](image-4.png)
 
